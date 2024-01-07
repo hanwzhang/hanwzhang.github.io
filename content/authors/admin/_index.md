@@ -25,7 +25,7 @@ organizations:
     url: https://www.middlebury.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a senior at Middlebury College pursuing double majors in Sociology and Psychology. I am enthusiastic about data-driven work in the policy world and enjoy applying my data science knowledge to answer research questions about education and immigration, as well as solve real-world challenges in communication and marketing.
+bio: I am a senior at Middlebury College pursuing double majors in Sociology and Psychology. I am enthusiastic about data-driven work in the policy world and enjoy applying my data science knowledge to answer research questions about education and immigration, as well as solve real-world challenges in understanding social beliefs and public opinion.
 
 # Interests to show in About widget
 interests:
@@ -69,5 +69,7 @@ social:
 highlight_name: true
 ---
 
-I am a senior at Middlebury College pursuing double majors in Sociology and Psychology. I am enthusiastic about data-driven work in the policy world and enjoy applying my data science knowledge to answer research questions about education and immigration, as well as solve real-world challenges in communication and marketing.
+Originally from Shanghai, China, I am a senior at Middlebury College pursuing double majors in Sociology and Psychology. I am enthusiastic about data-driven work in the policy world and enjoy applying my data science knowledge to answer research questions about education and immigration, as well as solve real-world challenges in understanding social beliefs and public opinion. 
+{style="text-align: justify;"}
+Recently, I just completed my undergraduate honors thesis in sociology about belief in meritocracy among immigrants in the U.S. I analyzed data from the 2021 General Social Survey to explain how belief in the importance of education and hard work for getting ahead differs between immigrants and native-borns. You can view an interactive data visualization that stemmed from the project and prompted my exploration [here](https://hanwenz.shinyapps.io/Fact_Checking_the_American_Dream/). 
 {style="text-align: justify;"}
