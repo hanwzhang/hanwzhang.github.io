@@ -16,6 +16,7 @@ main:
   - name: Experiences
     weight: 30
   - name: Interactive Visualizations
+    url: '../../visualization'
     weight: 40
   - name: Gallery
     weight: 50
