@@ -4,6 +4,6 @@ type: landing
 ---
 ## Photography
 <br>
-{{< gallery album="demo" >}}
+<!--{{< gallery album="demo" >}}-->
 
 ## Videos
