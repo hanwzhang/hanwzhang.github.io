@@ -182,6 +182,13 @@ sections:
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
 
+  - block: portfolio
+    id: visualization
+    content:
+      title: Interactive Visualizations
+      filters:
+        folder:
+          - visualization
 
   - block: markdown
     content:
