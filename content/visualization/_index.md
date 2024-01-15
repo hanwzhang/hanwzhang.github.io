@@ -2,7 +2,7 @@
 # Page title
 title: Interactive Visualizations
 # Page type - we want a landing page (such as a homepage)
-type: gallery
+type: project
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
@@ -38,3 +38,5 @@ sections:
       columns: '2'
       view: card
 ---
+Here are some interactive visualizations that I created as capstone projects for classes or to explore datasets for research projects.
+<hr>

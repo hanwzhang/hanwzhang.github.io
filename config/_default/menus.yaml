@@ -13,16 +13,17 @@ main:
   - name: Projects
     url: '../../project' #projects
     weight: 20
-  - name: Experiences
-    weight: 30
+  # - name: Experiences
+  #   weight: 30
   - name: Interactive Visualizations
     url: '../../visualization'
-    weight: 40
+    weight: 30
   - name: Gallery
-    weight: 50
+    weight: 40
+    url: '../../gallery'
   - name: CV
     url: uploads/hanwenzhang_CV.pdf
-    weight: 60
+    weight: 50
 
   # - name: Talks
   #   url: '#talks'

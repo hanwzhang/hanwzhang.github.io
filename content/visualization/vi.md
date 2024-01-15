@@ -1,3 +1,0 @@
-hi
-
-update content
