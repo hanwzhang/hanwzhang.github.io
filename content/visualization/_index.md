@@ -1,8 +1,8 @@
 ---
 # Page title
-title: My page
+title: Interactive Visualizations
 # Page type - we want a landing page (such as a homepage)
-type: landing
+type: gallery
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
