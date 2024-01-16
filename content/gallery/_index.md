@@ -9,6 +9,10 @@ Here is a gallery of my photography and video projects.
 
 {{< gallery album="demo" >}}
 
+## People
+
+{{< gallery album="figures" >}}
+
 ## Nature
 
 {{< gallery album="nature" >}}
