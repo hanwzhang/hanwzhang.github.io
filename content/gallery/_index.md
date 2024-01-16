@@ -2,9 +2,13 @@
 title: Gallery
 type: landing
 ---
-Here's a gallery of photos I took!
+Here is a gallery of my photography and video projects.
 
-## Photography
+## Architecture
 <br>
 
 {{< gallery album="demo" >}}
+
+## Nature
+
+{{< gallery album="nature" >}}

@@ -185,10 +185,11 @@ sections:
   - block: portfolio
     id: visualization
     content:
-      title: Interactive Visualizations
+      title: Projects and Visualizations
       filters:
-        folder:
+        folders:
           - visualization
+          - project
 
   - block: markdown
     content:
