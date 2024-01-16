@@ -24,7 +24,9 @@ Here is a gallery of my photography and video projects.
 ## Nature
 </center>
 {{< gallery album="nature" >}}
+<center>
 
-Nature's Close-Ups | A Collection of 30 Close-Up Shots in Nature and Essays
+### Nature's Close-Ups | A Collection of 30 Close-Up Shots in Nature and Essays
+</center>
 
 [![](naturesCloseUps.jpg)](https://hanwenzhang.middcreate.net/)
