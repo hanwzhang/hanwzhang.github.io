@@ -4,23 +4,23 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About
     url: '#about'
     weight: 10
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
-  - name: Projects
-    url: '../../project' #projects
-    weight: 20
   # - name: Experiences
   #   weight: 30
+  - name: Projects
+    url: '#projects'
+    weight: 20
   - name: Interactive Visualizations
-    url: '../../visualization'
+    url: '#visualizations'
     weight: 30
   - name: Gallery
     weight: 40
-    url: '../../gallery'
+    url: '#gallery'
   - name: CV
     url: uploads/hanwenzhang_CV.pdf
     weight: 50

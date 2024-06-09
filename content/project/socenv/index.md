@@ -10,6 +10,9 @@ image:
   #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 #external_link: https://example.org
+tags:
+- project
+- writing
 ---
 
 In Spring 2021, I took a writing-intensive seminar [Social Class and Environment](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FWRPR0210) at Middlebury College which culminated with a collaborative writing project on environmental justice. Check out [my op-ed](http://writingexperience.middcreate.net/social-class-and-the-environment/hanwen-zhang) about food delivery workers trapped by algorithms and [the full interactive textbook](http://writingexperience.middcreate.net/social-class-and-the-environment/index) here. 

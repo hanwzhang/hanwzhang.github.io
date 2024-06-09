@@ -181,21 +181,47 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-
   - block: portfolio
-    id: visualization
+    id: projects
+    widget: portfolio
     content:
-      title: Projects and Visualizations
+      title: Projects
+      text: Here is a collection of research and creative projects I have conducted in the past. Thanks to my interdisciplinary majors, I was able to work independently or with the guidance of my mentors on a wide range of topics, including migrations research, public discourse analysis, and environmental and social policy. <br></br>
       filters:
         folders:
-          - visualization
           - project
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Projects
+      #     tag: project
+      # default_button_index: 0 
+    design:
+      columns: '2'
+      view: showcase
+      # card, citation, compact, showcase
+
+  - block: portfolio
+    id: visualizations
+    widget: portfolio
+    content:
+      title: Interactive Visualizations
+      text: Here are some interactive visualizations that I created as capstone projects for classes or to explore datasets for research projects.<br></br>
+      filters:
+        folders:
+        - visualization
+    design:
+      columns: '2'
+      view: showcase
 
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
-      text: |-
+      text: Here is a gallery of my photography and video projects.
+
+
         {{< gallery album="demo" >}}
     design:
       columns: '1'

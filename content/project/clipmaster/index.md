@@ -10,8 +10,8 @@ image:
   #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 # summary: An example of using the in-built project page.
-# tags:
-#   - Deep Learning
+tags:
+  - project
 ---
 
 Clipmaster is a web-scraping and text-cleaning program that stemmed from my winter 2023 internship at NYC Mayor's Office of Research and Media Analysis. I was responsible for monitoring news coverage of Mayor Eric Adams and sending formatted clippings of articles to senior City Hall staff. To expedite the process and automate the screening for relevant key words, I created Clipmaster which uses browser automation to scrape an article, identifies and excludes non-content text according to a customizable rules sheet. You can access [the project's source code](https://github.com/hanwzhang/clipmaster) on GitHub.

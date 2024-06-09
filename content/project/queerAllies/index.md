@@ -5,6 +5,8 @@ image:
 #   caption: Probability of Themes and Strategies in Tweets, by Role of Author
   focal_point: Smart
 summary: My capstone project for Sex and Society seminar uses qualitative coding of 142 Twitter posts to examine themes and strategies used by adult allies to advocate for queer youth on social media.
+tags: 
+- project
 ---
 My capstone project for Sex and Society seminar uses qualitative coding of 142 Twitter posts to examine themes and strategies used by adult allies to advocate for queer youth on social media.
 

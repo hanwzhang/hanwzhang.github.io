@@ -5,8 +5,9 @@ image:
   caption: Predicted Beliefs in the Importance of Hard Work
   focal_point: Smart
 summary: My sociology honors thesis explores how belief in the importance of education interacts with belief in the importance of hard work for getting ahead among immigrants vs. native-born Americans.
-# tags:
-#   - Deep Learning
+tags:
+  - research
+  - project
 ---
 My sociology honors thesis explores how belief in the importance of education interacts with belief in the importance of hard work for getting ahead among immigrants vs. native-born Americans. You can also view the [interactive data visualization](https://hanwenz.shinyapps.io/Fact_Checking_the_American_Dream/) that illustrates the motivation for the project.
 
