@@ -198,7 +198,7 @@ sections:
       # default_button_index: 0 
     design:
       columns: '2'
-      view: showcase
+      view: compact
       # card, citation, compact, showcase
 
   - block: portfolio
@@ -212,7 +212,7 @@ sections:
         - visualization
     design:
       columns: '2'
-      view: showcase
+      view: compact
 
   - block: markdown
     id: gallery
